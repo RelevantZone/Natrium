@@ -1,0 +1,26 @@
+{
+  "name": "natrium",
+  "version": "0.0.1-alpha",
+  "description": "An experimental library as replacement  bdscript wrappers (aoijs, forgescript, bds) for easier ways to integrate javascript code into the language ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aoi.js",
+    "dbd.js",
+    "aoijs",
+    "dbdjs",
+    "bds",
+    "bdscript",
+    "fs",
+    "forgescript",
+    "botforge"
+  ],
+  "author": "RelevantZone",
+  "license": "MIT",
+  "dependencies": {
+    "@types/bun": "^1.1.6",
+    "@types/node": "^22.1.0"
+  }
+}
